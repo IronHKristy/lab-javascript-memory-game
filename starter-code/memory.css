@@ -1,6 +1,15 @@
 #memory_board {
-
+  background-image: url(http://comicsbeat.com/wp-content/uploads/2014/10/2285028-marvel_vs_dc1.jpg);
+  position: absolute;
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
 }
+
+.my_table {
+  position: absolute;
+}
+
 .pic {
   background-color: #456783;
 	width:71px;
